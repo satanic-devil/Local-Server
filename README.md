@@ -16,12 +16,14 @@ Run the following command
   java LocalServer
 ```
 ![Example Output of Running the Server](https://github.com/satanic-devil/output-files/blob/main/local-server-cmd.png?raw=true)
+
 The Server runs on port *9000*
 
 ## How to Access the server
 1. Open browser on any device connected to the server/computer
 2. Get the address of the server/computer running the program
 3. Type the address in the address bar followed by ***":9000"***
+
 ![Example Output of accessing the service in browser](https://github.com/satanic-devil/output-files/blob/main/local-server-browser.png?raw=true)
 
 ## Bugs/ Problems/ Vulnerabilities
